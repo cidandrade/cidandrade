@@ -38,13 +38,11 @@ Um guia prático para professores, da educação básica ao ensino superior, que
 
 Currículo completo na [Plataforma Lattes](https://lattes.cnpq.br/2533525052341064).
 
-## 🛠️ Projetos e materiais abertos
+## 🛠️ Projetos e materiais
 
 - **Canva de ABC Learning Design** (2026): ferramenta para planejar disciplinas com a metodologia ABC Learning Design.
 - **Gerador de Provas Unicid** (2026), em parceria com R. O. Cotrin.
-- **Playlists no YouTube e podcasts no Spotify** (2026) de Engenharia de Prompt e Aplicações em IA, Estruturas de Dados Lineares e Interface e Jornada do Usuário.
-- **IA na Educação:** newsletter com dicas sobre o uso de IA no ensino.
-- **Vídeo-aulas de Java no YouTube**, publicadas desde 2012 (NetBeans, JSP, JavaDB, interfaces gráficas).
+- **Playlists no YouTube e podcasts no Spotify**.
 
 ## 🧰 Com o que eu trabalho
 
