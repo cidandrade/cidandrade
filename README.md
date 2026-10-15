@@ -2,7 +2,9 @@
 
 Professor universitário na **UNICID**, mestre em Engenharia Elétrica pela **USP** e autor dos livros **Algoritmos e Fundamentos de Programação: Direto e Reto** e **HTML e CSS: Direto e Reto**. Dou aulas desde 1996 e no ensino superior desde 2001. Ensino programação, estruturas de dados, desenvolvimento web, banco de dados e o uso de IA no desenvolvimento de software.
 
-[LinkedIn](https://www.linkedin.com/in/cidrandrade) · [Instagram](https://www.instagram.com/ProfCid.Tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8+PGNpcmNsZSBjeD0iNSIgY3k9IjQuNSIgcj0iMi4zIi8+PHBhdGggZD0iTTkgOWgzLjh2MS43Yy42LTEgMi0yIDQuMS0yIDQgMCA0LjEgMi42IDQuMSA2VjIxaC00di01LjZjMC0xLjQgMC0zLjItMi0zLjJzLTIuMiAxLjUtMi4yIDMuMVYyMUg5eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/cidrandrade)
+[![Lattes](https://img.shields.io/badge/Lattes-1E5C99?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzIDEgOWwxMSA2IDktNC45VjE3aDJWOXoiLz48cGF0aCBkPSJNNSAxMy4ydjRMMTIgMjFsNy0zLjh2LTRMMTIgMTd6Ii8+PC9zdmc+)](https://lattes.cnpq.br/2533525052341064)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ProfCid.Tech)
 
 Aqui ficam os materiais das minhas aulas.
 
@@ -35,8 +37,6 @@ Um guia prático para professores, da educação básica ao ensino superior, que
 - **Gestão acadêmica:** membro de Núcleos Docentes Estruturantes (NDE) de cursos de Redes de Computadores, Jogos Digitais, Gestão da TI, Sistemas para Internet e Segurança da Informação. Orientei 12 TCCs de graduação.
 - **Mercado:** analista de sistemas na área de programação e administração de redes (1996–2002) e instrutor de Java e desenvolvimento web em treinamentos corporativos.
 - **Linux e software livre:** certificação LPIC-1 (2003), artigo na Revista do Linux e palestras no Congresso Internacional de Software Livre (2004–2006), incluindo o AprenSO, um simulador para o ensino de sistemas operacionais.
-
-Currículo completo na [Plataforma Lattes](https://lattes.cnpq.br/2533525052341064).
 
 ## 🛠️ Projetos e materiais
 
